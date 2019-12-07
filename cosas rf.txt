@@ -1,0 +1,11 @@
+privacidad
+>pan 
+>alto nivel filtro
+no volatil
+> eprom paired devices
+> serial
+> reconocer desconexiones , posibles , keep alive
+> sync
+> commands pay pause, scan
+
+
